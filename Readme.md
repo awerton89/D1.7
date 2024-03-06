@@ -38,4 +38,4 @@ ssh -i ssh_key/id_rsa ubuntu@ip_address </b><br><br>
 <b>Ответ: Cкриншоты магазина с остальных нод можно посмотреть по пути /skreenshots/  </b><br><br>
 
 4. Предоставить доступ к репозиторию и скриншотам для проверки. <br>
-<b>Ответ: https://github.com/Suirus777/Project_d_1.7.git  </b><br><br>
+<b>Ответ: https://github.com/awerton89/D1.7.git  </b><br><br>
