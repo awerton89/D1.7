@@ -19,7 +19,7 @@
 <b>Ответ: Для реализации задания было выбрано решение Terrsform + Docker Swarm в Yandex.Сloud <br>
 Миниинструкция <br>
 a. Для запуска данного проекта нужен сервер в Yandex.Сloud с установленным и настроенным terraform. <br>
-b. Нужно сделать git clone https://github.com/Suirus777/Project_d_1.7.git проекта к себе на сервер. <br>
+b. Нужно сделать git clone https://github.com/awerton89/D1.7.git проекта к себе на сервер. <br>
 c. Настроить провайдера яндекс в variables.tf, указать token, cloude id, folder id от своего облака yandex <br>
 d. Указать нужное колличество серверов в Main.tf <br>
 e. Указать нужное количество репликаций для сервисов проекта в modules/instance/provisioning.tf <br>
